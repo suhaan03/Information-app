@@ -1,0 +1,77 @@
+.About me{
+    display:flex;
+
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+
+     background-color:#870E46 ;
+     position: relative;
+}
+
+.About me p{
+    position: absolute;
+    top:50px;
+    left: 50px;
+    opacity: 0;
+    border: solid 2px black;
+}
+.About me:hover p{
+    opacity: 1;
+}
+img{
+
+    border: solid 2px black;
+
+}
+h3{
+    color:#FF66F0;
+font-size: 50px;
+text-align: center;    
+}
+
+
+.My family{
+    display:flex;
+
+    justify-content: space-between;
+
+    flex-wrap: wrap;
+
+     background-color:#D4BF15 ;
+     position: relative;
+}
+
+.My family p{
+    position: absolute;
+    top:50px;
+    left: 50px;
+    opacity: 0;
+    border: solid 2px black;
+}
+.My family:hover p{
+    opacity: 1;
+}
+img{
+
+    border: solid 2px black;
+
+}
+h3{
+    color:#FF66F0;
+font-size: 50px;
+text-align: center;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
